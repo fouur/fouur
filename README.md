@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fouur
 - 👀 I’m interested in learning python and Swift 
-- 🌱 I’m currently learning both swift and pythong :}
+- 🌱 I’m currently learning both swift and python :}
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on twitter @pshfouur 
 
